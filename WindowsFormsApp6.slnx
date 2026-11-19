@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Çözüm Öğeleri/">
+    <File Path="database.sql" />
+  </Folder>
+  <Project Path="WindowsFormsApp6/WindowsFormsApp6.csproj" />
+</Solution>
